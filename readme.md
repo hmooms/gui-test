@@ -103,7 +103,7 @@ make app
 
 If you see a window with "Hello, wxWidgets!" displayed, then wxWidgets is successfully installed.
 
-If you use Neovim or other editor that uses clang for compiling create a compile_commands.json with bear
+If you use Neovim or other editor that uses clangd for compiling create a compile_commands.json with bear
 
 ```bash
 sudo apt-get update
