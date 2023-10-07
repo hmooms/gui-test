@@ -27,10 +27,11 @@ sudo apt-get install build-essential libgtk-3-dev libgl1-mesa-dev libglu1-mesa-d
 https://www.wxwidgets.org/downloads/
 
 ### 4. Move the Archive
-Move the archive to where you want it to be, i made a folder .local/bin where i put it.
+Move the archive to where you want it to be, I made a folder .local/bin where I put it.
 
 ```bash
-mv path/to/wxWidgets-3.2.2.1.tar.bz2 .local/bin/
+mv path/to/wxWidgets-3.2.2.1.tar.bz2 ~/.local/bin/
+cd ~/.local/bin
 ```
 
 ### 5. Ectract the Archive
